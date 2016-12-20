@@ -35,7 +35,7 @@ To download a single file from Github do the following:
 
 1. Go to the file you want to download, in this case `ttall.sh`.
 2. Click it to view the contents within the GitHub UI.
-3. In the top right, right click the `Raw` button.
+3. In the top right, click the `Raw` button.
 4. Right-click and Save as...
 
 The best place to store the script is in `/usr/local/bin`. In that way the script can be
